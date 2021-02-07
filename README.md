@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**patrikrufino/patrikrufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on at Expresso Delivery, but not a developer, but as a software sales.
+- 🌱 I’m currently learning Software Engineering, Data Science and Big Data Analytics
+and some technologies like:
+  * HTML5
+  * CSS
+  * JavaScript
+  * Java
+  * Python
+  * PHP
+  
+- 📫 How to reach me: e-mail: patrik.rufino@gmail.com or https://linkedin.com/in/patrikrufino/
