@@ -23,8 +23,4 @@ and some technologies and languages like:
 
 ## 📊 Time track and stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=patrikrufino&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Patrik RUfino GitHub Stats" />
-<!--
-<code><img height="480" src="https://wakatime.com/share/@patrikrufino/eca2bcef-3738-4787-9f7f-40f32b2cbeb1.svg"></code>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=patrik.rufino@gmail.com)
+![Patrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrikrufino&show_icons=true&theme=dracula)
