@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Patrik Rufino 🤓
 
 ### 🤑 My Job
-- 🔭 I’m currently working on at [Expresso Delivery](https://www.expressodelivery.com.br), but not a developer, but as a software sales.
+- 🔭 I am currently looking for opportunity in the area of technology.
 
 ### 📚 My Studies
 - 🌱 I’m currently learning Software Engineering, Data Science and Big Data Analytics
