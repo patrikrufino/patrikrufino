@@ -19,11 +19,9 @@ and some technologies and languages like:
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> [Git](https://git-scm.com/)
 
 ### 👀 Contact me
-- 📫 How to reach me: e-mail: patrik.rufino@gmail.com or for me [Linkedin](https://linkedin.com/in/patrikrufino/)
+- 📫 How to reach me: e-mail: patrik.rufino@gmail.com or for me [Linkedin](https://linkedin.com/in/patrikalanrufino/)
 
 ## 📊 Time track and stats
-
-![Patrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrikrufino&show_icons=true&theme=dracula&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
