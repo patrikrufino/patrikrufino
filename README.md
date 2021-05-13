@@ -22,5 +22,7 @@ and some technologies and languages like:
 
 ## 📊 Time track and stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikrufino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikrufino&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Patrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrikrufino&show_icons=true&theme=dracula)
+
 
