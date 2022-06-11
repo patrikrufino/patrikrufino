@@ -1,16 +1,13 @@
 ## Hi there 👋 I'm Patrik Rufino 🤓
 
-### 🤑 My Job
-- 🔭 I'm currently working on maintenance for an internal project for a company, as a Full Stack Jr. Developer.
-We use a lot of PHP, HTML, BootStrap and Java for Android applications.
+
 
 ### 📚 My Studies
 - 🌱 I’m currently learning Software Engineering, Data Science and Big Data Analytics
 and some technologies and languages like:
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/java.svg"></code>[](https://www.java.com/pt-BR/)
 <code><img height="30" src="https://cdn.svgporn.com/logos/php.svg"></code> [](https://www.php.net/)
-<code><img height="30" src="https://cdn.svgporn.com/logos/kotlin.svg"></code>[](https://kotlinlang.org/)
+<code><img height="30" src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>[]([https://kotlinlang.org](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 <code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>[](https://www.w3.org/html/)
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> [](https://www.w3.org/Style/CSS/Overview.en.html)
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> [](https://www.javascript.com/)
