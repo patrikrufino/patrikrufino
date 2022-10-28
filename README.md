@@ -3,7 +3,7 @@
 
 
 ### 📚 My Studies
-- 🌱 I’m currently learning Software Engineering, Data Science and Big Data Analytics
+- 🌱 I’m currently learning Computer Science
 and some technologies and languages like:
 
 <code><img height="30" src="https://cdn.svgporn.com/logos/php.svg"></code> [](https://www.php.net/)
