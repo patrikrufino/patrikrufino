@@ -3,8 +3,7 @@
 
 
 ### 📚 My Studies
-- 🌱 I’m currently learning Computer Science
-and some technologies and languages like:
+- 🌱 I’m currently learning some technologies and languages like:
 
 <code><img height="30" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>[](https://www.w3.org/html/)
