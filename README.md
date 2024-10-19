@@ -15,8 +15,10 @@ I prefer performance to animations.
 
 #### Frameworks
 <code><img height="30" src="https://cdn.svgporn.com/logos/django-icon.svg"></code>[](https://www.djangoproject.com/)
-<code><img height="30" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></code>[](https://tailwindcss.com/)
 <code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon-alt.svg"></code>[](https://nodejs.org/pt)
+<code><img height="30" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></code>[](https://tailwindcss.com/)
+<code><img height="30" src="https://cdn.svgporn.com/logos/vue.svg"></code>[](http://vuejs.org/)
+<code><img height="30" src="https://cdn.svgporn.com/logos/nuxt-icon.svg"></code>[](https://nuxtjs.org/)
 
 #### Others
 <code><img height="30" src="https://cdn.svgporn.com/logos/linux-tux.svg"></code> [](https://www.linux.org/)
